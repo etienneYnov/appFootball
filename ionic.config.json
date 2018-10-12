@@ -1,0 +1,8 @@
+{
+  "name": "TheCoach",
+  "app_id": "4362a6ab",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
